@@ -33,10 +33,7 @@ This lab was conducted in a strictly controlled environment for educational and 
 ## 📸 Visuals from the Lab
 
 ### Campaign Dashboard
-![Gophish Dashboard](<img width="968" height="438" alt="campaing result all" src="https://github.com/user-attachments/assets/5e44f305-4dd3-43ac-9f37-cc441a727f72" /> ).
+![Gophish Dashboard](dashboard.png)
 
 ### Email Template used
-![Phishing Email](<img width="1313" height="568" alt="email sent" src="https://github.com/user-attachments/assets/be7c6c0a-fc61-4b12-bf84-3fd2cab86d87" />)
-
-### Fake Landing Page
-![Landing Page](images/landing_page.png)
+![Phishing Email](email.png)
