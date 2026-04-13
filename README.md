@@ -33,7 +33,7 @@ This lab was conducted in a strictly controlled environment for educational and 
 ## 📸 Visuals from the Lab
 
 ### Campaign Dashboard
-![Gophish Dashboard](dashboard.png)
+![Gophish Dashboard](campaing.png)
 
 ### Email Template used
 ![Phishing Email](email.png)
