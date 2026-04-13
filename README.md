@@ -37,3 +37,6 @@ This lab was conducted in a strictly controlled environment for educational and 
 
 ### Email Template used
 ![Phishing Email](email.png)
+
+## Report Gophish
+[<img src="https://img.shields.io/badge/View_Full_Report-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" />](Report-Gophish-GustavoGalvao.pdf)
